@@ -52,8 +52,6 @@ a{
     }
     header ul li img{
         width: 18px;
-        
-<<<<<<< HEAD
     }
 
 
@@ -274,11 +272,7 @@ footer{
     content: "\f144";
     padding-left: 15px;
 }
-=======
-<<<<<<< Updated upstream
-    }
-=======
-    }
+
     /* Second section style */
 .second-hightlight-wrapper {
 	background-image: url("../images/home/iphone11-pro-bg.jpg");
@@ -312,5 +306,4 @@ footer{
 	text-align: center;
 	padding: 65px 20px;
 }
->>>>>>> Stashed changes
->>>>>>> 3c12644837008f37fbbc96dafc06f49e1365a830
+
