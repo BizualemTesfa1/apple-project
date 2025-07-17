@@ -53,7 +53,11 @@ a{
     header ul li img{
         width: 18px;
         
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+>>>>>>> a5b5b02d4e57b0502ebc4893648ff7dd1c190762
     }
 
 
@@ -274,8 +278,16 @@ footer{
     content: "\f144";
     padding-left: 15px;
 }
+<<<<<<< HEAD
 
     
+=======
+=======
+<<<<<<< Updated upstream
+    }
+=======
+    }
+>>>>>>> a5b5b02d4e57b0502ebc4893648ff7dd1c190762
     /* Second section style */
 .second-hightlight-wrapper {
 	background-image: url("../images/home/iphone11-pro-bg.jpg");
@@ -309,3 +321,8 @@ footer{
 	text-align: center;
 	padding: 65px 20px;
 }
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+>>>>>>> 3c12644837008f37fbbc96dafc06f49e1365a830
+>>>>>>> a5b5b02d4e57b0502ebc4893648ff7dd1c190762
