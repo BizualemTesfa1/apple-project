@@ -52,6 +52,8 @@ a{
     }
     header ul li img{
         width: 18px;
+        
+
     }
 
 
@@ -273,6 +275,7 @@ footer{
     padding-left: 15px;
 }
 
+    
     /* Second section style */
 .second-hightlight-wrapper {
 	background-image: url("../images/home/iphone11-pro-bg.jpg");
